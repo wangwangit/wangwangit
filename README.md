@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <a href="https://github.com/wangwangit">
-    <img src="https://github-profile-trophy.vercel.app/?username=lewky&theme=darkhub" />
+    <img src="https://github-profile-trophy.vercel.app/?username=wangwangit&theme=darkhub" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/wangwangit">
-    <img src="https://github-readme-stats.vercel.app/api?username=lewky&theme=dracula&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wangwangit&theme=dracula&show_icons=true" />
   </a>
 </p>
