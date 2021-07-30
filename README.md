@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
   </a>
   &emsp;
-  <a href= "http://wangzai.icu/" target="_blank" title="个人站点">
+  <a href= "http://114.96.82.213:8888/" target="_blank" title="个人站点">
     <img src="https://img.icons8.com/metro/26/000000/home.png" width="30px"/>
   </a>
   &emsp;
